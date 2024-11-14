@@ -12,7 +12,7 @@ license: BY-SA
 ---
 # Where are all the Multi-Party Relays?
 
-Multi-Party Relays are a technology that aims to provide better privacy protections than VPNs do.
+Multi-Party Relays are a technology that aims to provide better privacy protections than VPNs do.<!-- more -->
 
 VPNs were originally meant to be used to access a network privately when you’re not physically there, with encryption in between, so you can get to your files or manage network-related things from wherever you are. It extends the security you’d expect from being physically at your LAN.
 
