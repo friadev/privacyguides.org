@@ -32,4 +32,10 @@ So why haven’t MPRs taken off? INVISV’s Pretty Good Phone Privacy service ne
 
 That leaves [iCloud Private Relay](https://support.apple.com/en-us/102602) as the only offering that I’m aware of, but it’s limited to Apple devices only. Great for Apple users, but everyone else is left high and dry. As is Apple’s way, they didn’t want any extra inconvenience from using their service so they restrict you to your real country and timezone, so you don’t have the same freedom to choose a server wherever in the world you want like a VPN service would allow.
 
+There is one more honorary mention: [OHTTP](https://blog.cloudflare.com/stronger-than-a-promise-proving-oblivious-http-privacy-properties/). This new protocol bases its design on the same principles as MPRs with two servers, a relay and a gateway, that decouple the sender from the destination. It's already seeing use by large companies to maintain user privacy for things like Google's Safe Browsing and Apple's new Safari Highlights feature. Unfortunately, it's not quite comparable to MPRs. According to Cloudflare:
+
+>  OHTTP is not a general purpose proxy protocol: it’s fit for purpose, aimed at transactional interactions between clients and servers (such as app-level APIs).
+
+So it can't cover all the traffic on your device. Still, it's a promising protocol and I hope it becomes more widespread.
+
 It really is a shame to see such a promising technology go so underutilized. Perhaps the VPN companies could make their own MPR product and fill the gap in the market, only time will tell.
