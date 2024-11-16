@@ -38,6 +38,11 @@ Enter Multi-Party Relays. Services like iCloud Private Relay and (the unfortunat
 
 Typically, the first relay is controlled by the provider (either Apple or INVISV in the previous examples), and the second relay is controlled by another company such as Fastly or Cloudflare. These are big names, so you won't need to worry about reliability.
 
+<figure markdown>
+  ![A diagram showing how your IP address is known to your ISP and Apple, and the server you're accessing is known to Cloudflare and the destination, in the case of iCloud Private Relay](../assets/images/where-are-all-the-mprs/icloud-private-relay.png)
+  <figcaption>source: <a href="https://blog.cloudflare.com/icloud-private-relay/">blog.cloudflare.com</a></figcaption>
+</figure>
+
 They also provide *speed*. Private Relay uses the QUIC protocol and as a result it's lightning fast. You wouldn't even know you were connecting to two servers in between your cat videos. The reliability is so good that I forget I even have it on. It even integrates with Safari and gives you a different IP address for different websites, similar to Tor's stream isolation.
 
 So why haven't MPRs taken off? INVISV's Pretty Good Phone Privacy service never seemed to [make it out of beta](https://invisv.com/pgpp/#pgpp-release-notes). [INVISV partnered with Vivaldi](https://invisv.com/articles/vivaldi-privacy-guard), but I can't seem to find any mention of it in the Vivaldi settings or on their website outside of the original [announcement post](https://vivaldi.com/blog/desktop/privacy-guard-your-privacy-matters-vivaldi-browser-snapshot-3319-12/). INVISV ultimately [shut down their service](https://invisv.com/articles/service_shutdown.html) back in June. I hope to see more from them in the future because they were providing something that currently isn't possible to get anymore on Android.
