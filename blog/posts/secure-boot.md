@@ -65,11 +65,11 @@ Secure Boot relies on public key infrastructure (PKI) to validate these componen
 It uses key chaining, with the keys verifying the keys further down the chain.
 
 ``` mermaid
-graph LR
-  A[Platform Key] -Sign-> B[Key Exchange Key];
-  B -Sign-> C[Signature Database];
-  B -Sign-> D[Revoked Signature Database];
-  E[Secure Firmware Update Key]
+flowchart LR
+  A[Platform Key] -->|Sign| B[Key Exchange Key];
+  B -->|Sign| C[Signature Database];
+  B -->|Sign| D[Revoked Signature Database];
+  E[Secure Firmware Update Key];
 ```
 
 The PK acts as the root of trust for the KEK which in turn verifies both the signature database and revoked signature database. They're all stored in non-volatile memory (NVRAM) so they can be erased and replaced with different keys if desired.
