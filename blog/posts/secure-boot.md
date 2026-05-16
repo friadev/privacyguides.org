@@ -135,8 +135,12 @@ UL is an organization that does certification for companies and products, and th
 
 One of the most complex pieces of electronic equipment and also the most potentially deadly is cars.
 
-Modern cars typically contain over 100 million lines of code, which is more than a passenger jet. A *lot* more.
+Modern cars typically contain over [100 million lines of code](https://globalplatform.org/wp-content/uploads/2025/01/9_Realizing-Secure-Boot-1.pdf), which is more than a passenger jet, which maxes out below 20 million lines of code, according to GlobalPlatform.
 
-This poses a problem when any component malfunctioning or being hacked could lead to property damage or deaths. Luckily, new standards like [ISO/SAE 21434:2021](https://www.iso.org/standard/70918.html) exist to provide guidance on best practices for automotive manufacturers.
+This poses a problem when any component malfunctioning or being hacked could lead to property damage or deaths. Luckily, new standards like [ISO/SAE 21434:2021](https://www.iso.org/standard/70918.html) exist to provide guidance on best practices for automotive manufacturers. GlobalPlatform provides security specifications and standards for IoT devices such as [PSA certified](https://www.psacertified.org/what-is-psa-certified/why-choose-psa-certified/). They've also been looking into securing automotives with the same technology.
 
-Secure boot and [hardware security modules](https://www.vector.com/int/en/products/products-a-z/embedded-software/microsar-hsm/) for automotives are becoming more common. I think we're going to eventually see similar security to phones on our cars at some point. There does seem to be a genuine push toward more security.
+Secure boot and [hardware security modules](https://www.vector.com/int/en/products/products-a-z/embedded-software/microsar-hsm/) for automotives are becoming more common. I think we're going to eventually see similar security to phones on our cars at some point. Semiconductor manufacturer [Renasas](https://www.renesas.com/en/key-technologies/security/automotive-security) supports HSMs in their products There does seem to be a genuine push toward more security.
+
+Multiple companies and even standards bodies like the [FIDO alliance](https://fidoalliance.org/wp-content/uploads/2025/07/Addressing-Cybersecurity-Challenges-in-the-Automotive-Industry-7-2025-1.pdf) are chipping away at the problem of vehicle security. With the ballooning size of codebases and connectivity of cars, it's going to be an [uphill battle](https://www.privacyguides.org/news/2026/01/23/pwn2own-automotive-shows-how-insecure-our-vehicles-are/).
+
+Still, it's encouraging that there's such cross-industry recognition of the need to secure our connected devices. We can only hope it will be enough to fight back the constant stream of security vulnerabilities.
