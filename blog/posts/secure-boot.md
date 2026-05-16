@@ -18,6 +18,8 @@ preview:
 
 ![Image of a computer chip with a lock on it inside a tunnel of spikes](../assets/images/secure-boot-explained/cover.webp)
 
+<small aria-hidden="true">Illustration: fria / Privacy Guides</small>
+
 More and more devices are internet-enabled these days, which means the possiblity of malware. A lot of focus goes into securing the software running on our devices, but even if our operating systems are secure, if the lower level firmware that controls our hardware is compromised it's essentially all for naught.<!-- more -->
 
 ## What is Firmware?
