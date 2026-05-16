@@ -11,7 +11,7 @@ tags:
     - Verified Boot
 description: As more and more of our devices are connected, how can we make sure malware doesn't infect the deepest parts of them? How do we prevent malware from sticking around? Secure boot provides the answer, but it's not quite as simple or widespread as it should be.
 preview:
-  cover: blog/assets/images/secure-boot-explained/cover.png
+  cover: blog/assets/images/secure-boot-explained/cover.webp
 ---
 
 # Secure Boot Explained
