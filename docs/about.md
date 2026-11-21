@@ -15,6 +15,14 @@ schema:
     - https://www.youtube.com/@privacyguides
     - https://mastodon.neat.computer/@privacyguides
 ---
+
+<!--
+SPDX-FileCopyrightText: 2020-2026 Jonah Aragon
+SPDX-FileCopyrightText: 2020-2026 The Privacy Guides contributors
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 ![Privacy Guides logo](assets/brand/logos/png/square/pg-yellow.png){ align=right }
 
 **Privacy Guides** is a socially motivated website that provides information for protecting your data security and privacy. We are a non-profit project with a mission to inform the public about the value of digital privacy, and about global government initiatives which aim to monitor your online activity. Our website is free of advertisements and not affiliated with any of the listed providers.
@@ -34,12 +42,6 @@ In addition to our core team, [many other people](about/contributors.md) have ma
 [:simple-discourse: Join the Privacy Guides forum](https://discuss.privacyguides.net){ .md-button .md-button--primary }
 
 The best way to get individual help is from our community on Discourse. If you notice an issue with our website, please open a discussion in the [Site Development](https://discuss.privacyguides.net/c/site-development/7) category on our forum. If you have a question about anything we cover, please ask it in the [Questions](https://discuss.privacyguides.net/c/privacy/questions/8) category on our forum.
-
-![Signal contact QR code](assets/images/layout/signal-contact-qr.png){ align=right }
-
-Have a tip for us, or need to share some sensitive information? The best way to get in touch with us securely is via `@privacyguides.01` on Signal. This group account is monitored by [Jonah](https://discuss.privacyguides.net/u/jonah), [Niek](https://discuss.privacyguides.net/u/niek-de-wilde), [Em](https://discuss.privacyguides.net/u/em), and [Jordan](https://discuss.privacyguides.net/u/jordan).
-
-[:simple-signal: Chat on Signal](https://signal.me/#eu/zg9xcrIv5w-EtXt2FmTJgfWv01LmyTed8rpr7RDv35Mizq8ISZ9NJLmYtzsxI0Z4){ .md-button }
 
 You may also email the entire team at <team@privacyguides.org>. This is a shared inbox that could be read by any [team member](https://discuss.privacyguides.net/u?group=team&order=solutions&period=all), so please consider what sensitive information you share via email accordingly.
 
@@ -123,18 +125,6 @@ The project executive committee consists of five volunteers charged with managem
 Our staff are paid to contribute to supplemental content at Privacy Guides, like [video production](https://www.youtube.com/@privacyguides), [news articles and tutorials](https://www.privacyguides.org/articles), and our discussion communities and social media. Most are available and paid on a full-time basis to assist the organization.
 
 <div class="grid cards" markdown>
-
--   :jack_o_lantern:{ .lg .middle } **Em**
-
-    ---
-
-    :material-text-account: Activism and Outreach
-
-    [:material-account: Profile](https://discuss.privacyguides.net/u/em)
-
-    [:material-github:](https://github.com/EmAtPrivacyGuides "GitHub")
-    [:material-mastodon:](https://infosec.exchange/@Em0nM4stodon "@Em0nM4stodon@infosec.exchange"){rel=me}
-    [:material-email:](mailto:em@privacyguides.org "Email")
 
 -   :full_moon_with_face:{ .lg .middle } **Jordan Warne**
 

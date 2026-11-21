@@ -2,6 +2,14 @@
 title: Donate
 description: The charitable mission of Privacy Guides relies on contributions from visitors like yourself. Anything you can do to support the project is hugely appreciated.
 ---
+
+<!--
+SPDX-FileCopyrightText: 2022-2026 Jonah Aragon
+SPDX-FileCopyrightText: 2022-2026 The Privacy Guides contributors
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 <!-- markdownlint-disable MD036 -->
 Support our mission to defend digital rights and spread the word about mass surveillance programs and other daily privacy invasions. You can help Privacy Guides researchers, activists, and maintainers create informative content, host private digital services, and protect privacy rights at a time when the world needs it most.
 
@@ -30,10 +38,11 @@ MAGIC Grants is our fiscal host, and their custom, open-source donation platform
 
     ![Power Up Privacy]{ title="Power Up Privacy" }
     [![Cape]](https://www.cape.co){ target=_blank title="Cape" }
+    [![oddbyte]](https://oddbyte.dev){ target=_blank title="oddbyte" }
 
       [Power Up Privacy]: ../assets/images/donors/power-up-privacy.webp
-      [DeleteMe]: ../assets/images/donors/deleteme.webp
       [Cape]: ../assets/images/donors/cape.webp
+      [oddbyte]: ../assets/images/donors/oddbyte.png
 
     </div>
 
@@ -101,7 +110,7 @@ Privacy Guides has been a nonstop effort for over 5 years to stay up to date wit
 
 Your donation go to a [dedicated fund](https://magicgrants.org/funds/privacy_guides) within [MAGIC Grants](https://magicgrants.org), a 501(c)(3) organization and our fiscal host. The funds will **only** be used for this project specifically.
 
-You may qualify for a tax deduction. When you donate to us [here](https://donate.magicgrants.org/privacyguides) with cryptocurrency or card you have the option to receive a receipt from MAGIC Grants for this purpose. If you have questions about other transactions please email <info@magicgrants.org>.
+You may qualify for a tax deduction. When you [donate to us](https://donate.magicgrants.org/privacyguides) with cryptocurrency or card you have the option to receive a receipt from MAGIC Grants for this purpose. If you have questions about other transactions please email <info@magicgrants.org>.
 
 We use donations for a variety of purposes, including:
 
